@@ -2,7 +2,7 @@ name: Deploy Hexo Blog
 
 on:
   push:
-    branches: [ "main" ]  # 对应 GitLab 的 CI_DEFAULT_BRANCH
+    branches: [ "main" ]
   workflow_dispatch:
 
 permissions:
@@ -18,10 +18,21 @@ jobs:
   build:
     runs-on: ubuntu-latest
     container:
-      image: node:22.11.0  # 使用与 GitLab CI 相同的 Node 版本
+      image: node:22.11.0
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          submodules: true  # 如果你使用 Git submodules 管理主题，设置为 true
+
+      # 方式1：如果主题是作为 Git submodule
+      # 已经通过上面的 submodules: true 自动处理
+
+      # 方式2：直接克隆主题
+      - name: Clone theme
+        run: |
+          # 例如克隆 NexT 主题：
+          # git clone https://github.com/CodeDaraW/Hacker.git themes/Hacker
       
       - name: Install and Build
         run: |
@@ -29,6 +40,13 @@ jobs:
           if [ -f package.json ]; then
             npm install
           fi
+          # 如果主题有自己的依赖，安装它们
+          if [ -f "themes/Hacker/package.json" ]; then
+            cd themes/Hacker
+            npm install
+            cd ../..
+          fi
+          hexo clean
           hexo generate
           ls -la public
       
