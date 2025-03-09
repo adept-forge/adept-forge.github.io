@@ -8,7 +8,7 @@ title: Pulseq Interpreter on uMR Platform
 
 # Features
 
-- **Full Field Strength and System Support**: Industry-leading compatibility across the spectrum, covering 3T research systems, United Imaging's pioneering 5T platform, and 9.4T ultra-high field research equipment, enabling single development for multi-platform research applications
+- **Full Field Strength and System Support**: Covering 3T research systems, United Imaging's pioneering 5T platform, and 9.4T ultra-high field research equipment, enabling single development for multi-platform research applications
 
 - **Complete Compatibility**: Fully compatible with the Pulseq open-source framework, ensuring your research sequences can run on United Imaging equipment with minimal modifications, truly realizing "write once, run anywhere"
 
