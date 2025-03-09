@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: uMR Open Research Platform
+title: United Imaging MR ADEPT Platform
 subtitle: ''
 description: ''
 keywords:
@@ -102,3 +102,5 @@ theme: Hacker
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+

@@ -1,18 +1,44 @@
 ---
-title: Welcome to UIH MR Open Research Blog
+title: Pulseq Interpreter on uMR Platform
 ---
 
-This is the webpage of UIH MR Open Research Blog. ADEPT(Application Development Environment and Programming Environment) is the platfrom for MR sequence or reconstruction developers in uMR and research institutions.
+**uMR Application Development Environment and Programming Tools** (ADEPT) platform now fully supports the Pulseq open-source framework with our Pulseq Interpreter. From standard 3T research systems, to our pioneering 5T platform, to cutting-edge 9.4T ultra-high field systems, uMR ADEPT offers full compatibility, paving the way for your research innovations.
 
----
-## Sequence Design Platform
-Now sequence files compiled by Pulseq are supported in ADEPT. 
-You can simulate your Pulseq files(.seq) and execute them on our 3T/5T/9.4 MR scanners.  
+<workflow.png>
 
----
-## Reconstuction Design Platform
-ADEPT supports intergrating your reconstruction algorithms into uMR reconstruction pipeline online & offline.  
+# Features
 
----
-## Contact Us
-Email: MR_OPEN@united-imaging.com    
+- **Full Field Strength and System Support**: Industry-leading compatibility across the spectrum, covering 3T research systems, United Imaging's pioneering 5T platform, and 9.4T ultra-high field research equipment, enabling single development for multi-platform research applications
+
+- **Complete Compatibility**: Fully compatible with the Pulseq open-source framework, ensuring your research sequences can run on United Imaging equipment with minimal modifications, truly realizing "write once, run anywhere"
+
+- **Powerful Development Tools**: Providing professional tools for sequence waveform simulation, raw data acquisition, and more, helping researchers seamlessly integrate the entire workflow of development, testing, and analysis
+
+- **Comprehensive Documentation**: Pulseq user manuals optimized for United Imaging MR system characteristics, including detailed examples and best practices, accelerating your research sequence development process
+
+- **Global Research Collaboration**: Professional global research collaboration team providing prompt response to researchers
+  
+- **Open Ecosystem**: Join the global MR research community to jointly promote MRI technology innovation
+
+# Showcases
+
+**Case1: GRE 2D demo**
+
+
+**Case2: Radial 2D**
+
+**Case3: Spiral 2D**
+
+
+# Latest Updates
+
+**Jan 2025**: First edition released with full support of Pulseq v1.4  
+
+# Getting Started
+
+To obtain the United Imaging Pulseq Interpreter, you need to sign a magnetic resonance research collaboration agreement with United Imaging MR.
+
+# Contact Us
+Email: MR_ADEPT@united-imaging.com    
+
+*United Imaging is committed to promoting innovation and openness in MR technology, looking forward to exploring the future of medical imaging with researchers worldwide.*
