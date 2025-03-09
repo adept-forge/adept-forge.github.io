@@ -8,17 +8,17 @@ title: Pulseq Interpreter on uMR Platform
 
 # Features
 
-- **Full Field Strength and System Support**: Covering 3T research systems, United Imaging's pioneering 5T platform, and 9.4T ultra-high field research equipment, enabling single development for multi-platform research applications
+- **Full Field Strength and System Support**: Covering 3T research systems, United Imaging's pioneering 5T platform, and 9.4T ultra-high field research equipment, enabling single development for multi-platform research applications.  
 
-- **Complete Compatibility**: Fully compatible with the Pulseq open-source framework, ensuring your research sequences can run on United Imaging equipment with minimal modifications, truly realizing "write once, run anywhere"
+- **Complete Compatibility**: Fully compatible with the Pulseq open-source framework, ensuring your research sequences can run on United Imaging equipment with minimal modifications, truly realizing "write once, run anywhere".  
 
-- **Powerful Development Tools**: Providing professional tools for sequence waveform simulation, raw data acquisition, and more, helping researchers seamlessly integrate the entire workflow of development, testing, and analysis
+- **Powerful Development Tools**: Providing professional tools for sequence waveform simulation, raw data acquisition, and more, helping researchers seamlessly integrate the entire workflow of development, testing, and analysis.  
 
-- **Comprehensive Documentation**: Pulseq user manuals optimized for United Imaging MR system characteristics, including detailed examples and best practices, accelerating your research sequence development process
+- **Comprehensive Documentation**: Pulseq user manuals optimized for United Imaging MR system characteristics, including detailed examples and best practices, accelerating your research sequence development process.  
 
-- **Global Research Collaboration**: Professional global research collaboration team providing prompt response to researchers
+- **Global Research Collaboration**: Professional global research collaboration team providing prompt response to researchers.
   
-- **Open Ecosystem**: Join the global MR research community to jointly promote MRI technology innovation
+- **Open Ecosystem**: Join the global MR research community to jointly promote MRI technology innovation.  
 
 # Showcases
 
