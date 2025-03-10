@@ -34,9 +34,7 @@ source code: https://github.com/imr-framework/mrf
 
 **Case3: Music**
 
-{% raw %}
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114136977579944&bvid=BV1vqRGYBExf&cid=28792720518&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-{% endraw %}
 
 # Latest Updates
 
