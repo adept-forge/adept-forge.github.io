@@ -22,13 +22,21 @@ title: Pulseq Interpreter on uMR Platform
 
 # Showcases
 
-**Case1: GRE 2D demo**
+**Case1: Radial 2D**
+source code: https://github.com/pulseq/pulseq/blob/v1.4.2/matlab/demoSeq/writeRadialGradientEcho.m 
 
+![workflow](fig/radial.jpg)
 
-**Case2: Radial 2D**
+**Case2: MRF**
+source code: https://github.com/imr-framework/mrf
 
-**Case3: Spiral 2D**
+![workflow](fig/mrf.jpg)
 
+**Case3: Music**
+
+{% raw %}
+<iframe src="【Pulseq Music】 https://www.bilibili.com/video/BV1vqRGYBExf/?share_source=copy_web&vd_source=c44c3d43d9e67a5ddf595c234e8e8d3f" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+{% endraw %}
 
 # Latest Updates
 
