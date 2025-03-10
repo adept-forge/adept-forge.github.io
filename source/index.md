@@ -25,21 +25,24 @@ title: Pulseq Interpreter on uMR Platform
 ### Case1: Radial 2D
 source code: https://github.com/pulseq/pulseq/blob/v1.4.2/matlab/demoSeq/writeRadialGradientEcho.m 
 
-<div style:"text-alogn:left;">
+<!-- 方法1: 使用更高优先级的内联样式 -->
+<div style="text-align:left !important; margin: 0 !important; padding: 0 !important;">
 <img src="fig/radial.jpg" width="400">   
 </div>
 
 ### Case2: MRF   
 source code: https://github.com/imr-framework/mrf    
 
-<div style:"text-alogn:left;">
-<img src="fig/mrf.jpg" width="400">
+<!-- 方法1: 使用更高优先级的内联样式 -->
+<div style="text-align:left !important; margin: 0 !important; padding: 0 !important;">
+    <img src="fig/mrf.jpg" width="400">
 </div>    
 
 
 ### Case3: Music   
 
-<div style:"text-alogn:left; width: 400x">
+<!-- 方法1: 使用更高优先级的内联样式 -->
+<div style="text-align:left !important; margin: 0 !important; padding: 0 !important;">
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114136977579944&bvid=BV1vqRGYBExf&cid=28792720518&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 </div> 
 
