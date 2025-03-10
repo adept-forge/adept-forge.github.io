@@ -35,7 +35,7 @@ source code: https://github.com/imr-framework/mrf
 **Case3: Music**
 
 {% raw %}
-<iframe src="【Pulseq Music】 https://www.bilibili.com/video/BV1vqRGYBExf/?share_source=copy_web&vd_source=c44c3d43d9e67a5ddf595c234e8e8d3f" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe src="https://www.bilibili.com/video/BV1vqRGYBExf" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 {% endraw %}
 
 # Latest Updates
