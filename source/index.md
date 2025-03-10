@@ -39,7 +39,7 @@ source code: https://github.com/imr-framework/mrf
 ### Case3: Music   
 Music written in Pulseq and running on the uMR NX platform.  
 <div style="display:inline-block";>
-    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114136977579944&bvid=BV1vqRGYBExf&cid=28792720518&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="text-align:left !important; margin: 0 !important; padding: 0 !important;"></iframe>
+    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114136977579944&bvid=BV1vqRGYBExf&cid=28792720518&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="400" style="text-align:left !important; margin: 0 !important; padding: 0 !important;"></iframe>
 </div> 
 
 # Latest Updates
