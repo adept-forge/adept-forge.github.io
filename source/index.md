@@ -4,7 +4,7 @@ title: Pulseq Interpreter on uMR Platform
 
 **uMR Application Development Environment and Programming Tools** (ADEPT) platform now fully supports the Pulseq open-source framework with our Pulseq Interpreter. From standard 3T research systems, to our pioneering 5T platform, to cutting-edge 9.4T ultra-high field systems, uMR ADEPT offers full compatibility, paving the way for your research innovations.
 
-<workflow.png>
+![workflow](fig/workflow.jpg)
 
 # Features
 
