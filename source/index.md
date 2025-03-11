@@ -2,7 +2,7 @@
 title: Pulseq Interpreter on uMR Platform
 ---
 
-**uMR Application Development Environment and Programming Tools** (ADEPT) platform now fully supports the Pulseq open-source framework with the UIH Pulseq Interpreter. From the 3T MRI, to the pioneering 5T platform, to cutting-edge 9.4T ultra-high field systems, uMR ADEPT offers full compatibility, paving the way for your research innovations.
+**uMR ADEPT**(Application Development Environment and Programming Tools) platform now fully supports the Pulseq open-source framework with the UIH Pulseq Interpreter. From the 3T MRI, to the pioneering 5T platform, to cutting-edge 9.4T ultra-high field systems, uMR ADEPT offers full compatibility, paving the way for your research innovations.
 
 ![workflow](fig/workflow.jpg)
 
