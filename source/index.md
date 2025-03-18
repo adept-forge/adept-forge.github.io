@@ -51,6 +51,6 @@ Music written in Pulseq and running on the uMR NX platform.
 To obtain the United Imaging Pulseq Interpreter, you need to sign a magnetic resonance research collaboration agreement with United Imaging MR.
 
 # Contact Us
-Email: MR_ADEPT@united-imaging.com    
+Email: umr-adept@united-imaging.com    
 
 *United Imaging is committed to promoting innovation and openness in MR technology, looking forward to exploring the future of medical imaging with researchers worldwide.*
