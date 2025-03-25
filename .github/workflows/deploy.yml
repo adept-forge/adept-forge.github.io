@@ -31,7 +31,7 @@ jobs:
       # 方式2：直接克隆主题
       - name: Clone theme
         run: |
-          git clone https://github.com/CodeDaraW/Hacker.git themes/Hacker
+          git clone https://github.com/next-theme/hexo-theme-next themes/next
       
       - name: Install and Build
         run: |
@@ -40,8 +40,8 @@ jobs:
             npm install
           fi
           # 如果主题有自己的依赖，安装它们
-          if [ -f "themes/Hacker/package.json" ]; then
-            cd themes/Hacker
+          if [ -f "themes/next/package.json" ]; then
+            cd themes/next
             npm install
             cd ../..
           fi
