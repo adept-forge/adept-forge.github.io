@@ -1,12 +1,30 @@
 .site-title {
   color: #12495B; /* Set the font color */
-  /*background-color: #12495B; /* Set the background color */
   padding: 20px;
   font-size: 25pt;
   text-align: center; /* Center text horizontally */
   margin: 0 auto; /* Center the element within its container */
   display: block; /* Ensure it's treated as a block element */
   width: fit-content;
+  display: flex;
+}
+
+.site-meta {
+  text-align: center; /* 确保文本在自身容器内居中 */
+}
+
+.brand {
+  border-bottom: none; /* Removes any border */
+  color: inherit; /* Inherits the color from the parent element */
+  display: block; /* Sets display to block or any desired value */
+  padding: 0; /* Removes padding */
+}
+
+.site-brand-container {
+  display: flex;
+  justify-content: center; /* 水平居中 */
+  align-items: center; /* 垂直居中 */
+  width: 100%; /* 确保容器占满宽度 */
 }
 
 .post-title {
