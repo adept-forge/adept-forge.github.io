@@ -40,10 +40,10 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  small: /source/logo/uih_logo.png
-  medium: /source/logo/uih_logo.png
-  apple_touch_icon: /source/logo/uih_logo.png
-  safari_pinned_tab: /source/logo/uih_logo.png
+  small: #/source/logo/uih_logo.png
+  medium: #/source/logo/uih_logo.png
+  apple_touch_icon: #/source/logo/uih_logo.png
+  safari_pinned_tab: #/source/logo/uih_logo.png
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
