@@ -40,14 +40,14 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/logo.svg
+  small: /source/logo/uih_logo_16x16.ico
+  medium: /source/logo/uih_logo_32x32.ico
+  apple_touch_icon: /source/logo/uih_logo_32x32.ico
+  safari_pinned_tab: /source/logo/uih_logo_32x32.ico
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
-custom_logo: #/uploads/custom-logo.png
+custom_logo: /source/logo/uih_logo_32x32.ico
 
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/about/cclicenses/
@@ -65,7 +65,7 @@ creative_commons:
 # Open graph settings
 # See: https://hexo.io/docs/helpers#open-graph
 open_graph:
-  enable: true
+  enable: false
   options:
     #twitter_card: <twitter:card>
     #twitter_id: <twitter:creator>
