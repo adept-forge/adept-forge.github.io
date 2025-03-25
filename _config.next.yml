@@ -40,14 +40,14 @@ darkmode: false
 # ---------------------------------------------------------------
 
 favicon:
-  small: /source/logo/uih_logo_16x16.ico
-  medium: /source/logo/uih_logo_32x32.ico
-  apple_touch_icon: /source/logo/uih_logo_32x32.ico
-  safari_pinned_tab: /source/logo/uih_logo_32x32.ico
+  small: /source/logo/uih_logo.png
+  medium: /source/logo/uih_logo.png
+  apple_touch_icon: /source/logo/uih_logo.png
+  safari_pinned_tab: /source/logo/uih_logo.png
   #android_manifest: /manifest.json
 
 # Custom Logo (Warning: Do not support scheme Mist)
-custom_logo: /source/logo/uih_logo_32x32.ico
+custom_logo: /source/logo/uih_logo.png
 
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/about/cclicenses/
