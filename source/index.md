@@ -1,5 +1,5 @@
 ---
-title: Pulseq on UIH MR Platform
+title: Pulseq on UIH MR
 ---
 
 **uMR ADEPT**(Application Development Environment and Programming Tools) platform now fully supports the Pulseq open-source framework with the UIH Pulseq Interpreter. From the 3T MRI, to the pioneering 5T platform, to cutting-edge 9.4T ultra-high field systems, uMR ADEPT offers full compatibility, paving the way for your research innovations.
@@ -23,13 +23,15 @@ title: Pulseq on UIH MR Platform
 # Showcases
 
 ### Case1: Radial 2D
-source code: https://github.com/pulseq/pulseq/blob/v1.4.2/matlab/demoSeq/writeRadialGradientEcho.m 
+**source code**  
+https://github.com/pulseq/pulseq/blob/v1.4.2/matlab/demoSeq/writeRadialGradientEcho.m 
 <div style="display:inline-block";>
     <img src="fig/radial.jpg" width="400" style="text-align:left !important; margin: 0 !important; padding: 0 !important;">   
 </div>
 
 ### Case2: MRF   
-source code: https://github.com/imr-framework/mrf    
+**source code**  
+https://github.com/imr-framework/mrf    
 
 <div style="display:inline-block";>
     <img src="fig/mrf.jpg" width="400" style="text-align:left !important; margin: 0 !important; padding: 0 !important;">
@@ -38,9 +40,9 @@ source code: https://github.com/imr-framework/mrf
 
 ### Case3: Music   
 Music written in Pulseq and running on the uMR NX platform.  
-<div style="display:inline-block";>
-    <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114136977579944&bvid=BV1vqRGYBExf&cid=28792720518&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="400" height="225" style="text-align:left !important; margin: 0 !important; padding: 0 !important;"></iframe>
-</div> 
+{% raw %}
+<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114136977579944&bvid=BV1vqRGYBExf&cid=28792720518&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="400" height="225"></iframe>
+{% endraw %}
 
 # Latest Updates
 
