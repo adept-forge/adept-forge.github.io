@@ -6,7 +6,7 @@ title: Pulseq on UIH MR
 
 ![workflow](fig/workflow.jpg)
 
-To obtain the Pulseq Interpreter on UIH MR, it is necessary for you to sign** the MR research collaboration agreement** with UIH MR. 
+To obtain the Pulseq Interpreter on UIH MR, it is necessary for you to sign the __MR research collaboration agreement__ with UIH MR. 
 If you have any interests in the Pulseq interpreter, please feel free to contact us: umr-adept@united-imaging.com.  
 
 # News
