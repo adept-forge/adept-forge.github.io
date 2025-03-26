@@ -6,6 +6,13 @@ title: Pulseq on UIH MR
 
 ![workflow](fig/workflow.jpg)
 
+To obtain the United Imaging Pulseq Interpreter, it is necessary for you to sign a magnetic resonance research collaboration agreement with United Imaging MR. 
+If you have any interests in UIH MR Pulseq interpreter, please feel free to contact us: umr-adept@united-imaging.com.  
+
+# News
+
+**Jan 2025**: First edition released with full support of Pulseq v1.4 series.    
+
 # Features
 
 - **Full Field Strength and System Support**: Covering 3T research systems, United Imaging's pioneering 5T platform, and 9.4T ultra-high field research equipment, enabling single development for multi-platform research applications.  
@@ -44,15 +51,5 @@ Music written in Pulseq and running on the uMR NX platform.
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114136977579944&bvid=BV1vqRGYBExf&cid=28792720518&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="400" height="225"></iframe>
 {% endraw %}
 
-# Latest Updates
-
-**Jan 2025**: First edition released with full support of Pulseq v1.4  
-
-# Getting Started
-
-To obtain the United Imaging Pulseq Interpreter, you need to sign a magnetic resonance research collaboration agreement with United Imaging MR.
-
-# Contact Us
-Email: umr-adept@united-imaging.com    
 
 *United Imaging is committed to promoting innovation and openness in MR technology, looking forward to exploring the future of medical imaging with researchers worldwide.*
