@@ -11,6 +11,11 @@ If you have any interests in the Pulseq interpreter, please feel free to contact
 
 # News
 
+**Aug 2025**: 
+- Full support of Pulseq v1.5.0 features
+- Brand new binary file fotmat(.bseq) for ultra-high resoultion imaging or imaging with a large number of arbitrary gradients
+- Pulseq Viewer for viewing/analyzing Pulseq files(.seq and .bseq)
+
 **Jan 2025**: First edition released with full support of Pulseq v1.4 series.    
 
 # Features
@@ -45,7 +50,14 @@ https://github.com/imr-framework/mrf
 </div>    
 
 
-### Case3: Music   
+### Case3: Cine      
+In-vivo cine pulseq sequence with soft delay, to enable scanning of subjects with different RR-intervals
+<div style="display:inline-block";>
+    <img src="fig/cine_with_soft_delay.gif" width="400" style="text-align:left !important; margin: 0 !important; padding: 0 !important;">
+</div>   
+
+
+### Case4: Music   
 Music written in Pulseq and running on the uMR NX platform.  
 {% raw %}
 <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114136977579944&bvid=BV1vqRGYBExf&cid=28792720518&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="400" height="225"></iframe>
