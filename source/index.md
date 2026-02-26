@@ -30,7 +30,10 @@ If you have any interests in the Pulseq interpreter, please feel free to contact
 
 - **Global Research Collaboration**: Professional global research collaboration team providing prompt response to researchers.
   
-- **Open Ecosystem**: Join the global MR research community to jointly promote MRI technology innovation.  
+- **Open Ecosystem**: Join the global MR research community to jointly promote MRI technology innovation.
+
+# Articles
+- 2026 ISMRM Abstract #00657: Open-source Pulseq Sequences with United Imaging MRI Systems 
 
 # Showcases
 
