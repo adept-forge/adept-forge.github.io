@@ -9,14 +9,22 @@ title: Pulseq on UIH MR
 To obtain the Pulseq Interpreter on UIH MR, it is necessary for you to sign the __MR research collaboration agreement__ with UIH MR. 
 If you have any interests in the Pulseq interpreter, please feel free to contact us: umr-adept@united-imaging.com.  
 
+# Citation
+Liu Z, Aburas A, Wang Z, Zhang C, Zhu J, Zhou X. Open-source Pulseq Sequences with United Imaging MRI Systems. In: Proceedings of the Cape Town - 2026 ISMRM-ISMRT Annual Meeting and Exhibition, Cape Town, South Africa. Program #567-03-013. 
+
 # News
 
-**Aug 2025**: 
+## Feb 2026
+The first official uMR Pulseq interpreter ISMRM abstract accepted. Please refer to **Articles** section.
+
+## Aug 2025
 - Full support of Pulseq v1.5.0 features
 - Brand new binary file fotmat(.bseq) for ultra-high resoultion imaging or imaging with a large number of arbitrary gradients
 - Pulseq Viewer for viewing/analyzing Pulseq files(.seq and .bseq)
 
-**Jan 2025**: First edition released with full support of Pulseq v1.4 series.    
+## Jan 2025
+First edition released with full support of Pulseq v1.4 series.    
+
 
 # Features
 
@@ -33,7 +41,7 @@ If you have any interests in the Pulseq interpreter, please feel free to contact
 - **Open Ecosystem**: Join the global MR research community to jointly promote MRI technology innovation.
 
 # Articles
-- 2026 ISMRM Abstract #00657: Open-source Pulseq Sequences with United Imaging MRI Systems 
+- 2026 ISMRM Abstract #00657: Open-source Pulseq Sequences with United Imaging MRI Systems.   
 
 # Showcases
 
